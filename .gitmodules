@@ -1,0 +1,3 @@
+[submodule "VTC_MultiStepLoad/lib_cci"]
+	path = VTC_MultiStepLoad/lib_cci
+	url = https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/cci_ecu_driver_private.git
