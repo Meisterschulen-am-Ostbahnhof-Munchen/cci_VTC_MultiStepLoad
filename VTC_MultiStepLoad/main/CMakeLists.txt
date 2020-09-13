@@ -7,9 +7,14 @@ set(COMPONENT_PRIV_REQUIRES
 )
 
 set(COMPONENT_SRCS 
+  "../AppIso/App_Base.c"
+  "../AppIso/App_Main.c"
   "../AppIso/App_VTClient.c"
+  "../AppIso/AppMemAccess.cpp"
   "../AppCommon/AppOutput.c"
   "../AppCommon/AppHW.cpp"
+  "../Samples/AddOn/AppIso_Output.c"
+  "../Settings/settingsNVS.cpp"
   "../AppCanDriverEsp32/CanDriverEsp32.cpp"
 )
 
@@ -19,6 +24,8 @@ set(COMPONENT_ADD_INCLUDEDIRS
   "../lib_cci"
   "../AppIso"
   "../AppCommon"
+  "../Settings"
+  "../ISODesigner"
 )
 
 
