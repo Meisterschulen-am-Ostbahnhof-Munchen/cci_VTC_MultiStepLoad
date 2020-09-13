@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JetViewSoft-DefaultObjects Version="3.0" ProductVersion="5.3.1.4064" RelatedObjectPool=".\MultiStepLoad.jop">
+	<Objects>
+		<Object Class="COutputNumber">
+			<Objects>
+				<Object Class="CFontStyle" JVS-ID="23017" ObjectName="FontAttributes_23017"/>
+			</Objects>
+		</Object>
+	</Objects>
+</JetViewSoft-DefaultObjects>
