@@ -1,6 +1,9 @@
 #include "VTCPool.h"
 #include "PreparePool.h"
 
+#include <iostream>
+#include <cstring>
+
 extern "C"
 {
 #include "MultiStepLoad/Output/MultiStepLoad.c.h"
